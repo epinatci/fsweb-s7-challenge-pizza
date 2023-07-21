@@ -1,0 +1,112 @@
+.footer {
+    background-color: #292929;
+    color: white;
+}
+
+.footer-container {
+    width: 70%;
+    margin: auto;
+    padding-top: 3%;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-container p {
+    font-family: Quattrocento;
+    font-size: small;
+    padding: 0%;
+    margin: 0%;
+    padding-bottom: 8%;
+}
+
+.footer-container h3 {
+    margin-right: 70%;
+    font-family: Quattrocento;
+    width: 22%;
+}
+
+.iletisim {
+    width: 27%;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.iletisim p {
+    padding-bottom: 5%;
+    margin-right: 30%;
+    margin-left: 1%;
+
+}
+
+.iletisim:first-child p {
+    width: 60%;
+}
+
+.iletisim img {
+    width: 5%;
+    height:5%;
+    padding: 1rem;
+}
+
+.menu {
+    width: 20%;
+    margin: 0;
+    margin-right: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu a {
+    margin-bottom: 6%;
+    font-family: Quattrocento;
+    font-size: small;
+    color: white;
+}
+
+.menu a:hover {
+    background-color: #FAF7F2;
+    color: black
+}
+
+.instagram {
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.instagram h5 {
+    width: 100%;
+}
+
+.instagram img {
+    width: 70px;
+    height: 70px;
+    margin: 2%;
+}
+
+.copyright {
+    width: 100%;
+    border-top: 1px solid #5F5F5F
+}
+
+.copyright-icon {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.copyright p {
+    width: 70%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: medium;
+    font-family: Quattrocento;
+}

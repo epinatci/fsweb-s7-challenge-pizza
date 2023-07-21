@@ -1,0 +1,68 @@
+@import url('https://fonts.cdnfonts.com/css/satisfy');
+
+.success-page {
+    background-color: #CE2829;
+    color: #FAF7F2;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.ty-logo {
+    background-color: #ce2829;
+    text-align: center;
+    padding: 70px;
+  }
+
+.success-page h1:hover{
+cursor: pointer;
+}
+
+#satisfy {
+ font-family: 'Satisfy', sans-serif ;
+ width: "100%";
+ text-align: "center"; 
+ font-size: "2rem"; 
+ margin-bottom: "0%"
+}
+
+.pizza {
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 1%;
+}
+
+.pizza p {
+    margin-bottom: 0%;
+    display: inline
+}
+
+.siparis-toplami {
+    display: flex;
+    width: 23%;
+    flex-direction: column;
+    margin-top: 5%;
+    margin: auto;
+    border: 1px solid white;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+.siparis-toplami h3 {
+    width: 40%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.siparis-toplami p {
+    text-align: left;
+    margin-left: 5%;
+    width: 50%;
+}
